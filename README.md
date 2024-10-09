@@ -6,9 +6,9 @@
 
 * It includes two buttons:
 
-"start" to initiate movement
+     * "start" to initiate movement
 
-"stop" to halt it (though the stop function isn't implemented).
+     * "stop" to halt it (though the stop function isn't implemented).
 
 * The animation alternates between two sprites as it moves.
 
