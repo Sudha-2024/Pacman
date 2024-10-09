@@ -1,17 +1,17 @@
-Step 1:This HTML document features a simple animation of a Pac-Man character.
+# pacman 
 
-step 2:The Pac-Man moves horizontally across the screen.
+* This HTML document features a simple animation of a Pac-Man character.
 
-step 3:It includes two buttons:
+* The Pac-Man moves horizontally across the screen.
+
+* It includes two buttons:
 
 "start" to initiate movement
 
 "stop" to halt it (though the stop function isn't implemented).
 
-Step 4:The animation alternates between two sprites as it moves.
+* The animation alternates between two sprites as it moves.
 
+* The movement is controlled by a move function, updating position and sprite every 200 milliseconds.
 
-Step 5:The movement is controlled by a move function, updating position and sprite every 200 milliseconds.
-
-
-Step 6:This creates a playful visual effect.
+* This creates a playful visual effect.
